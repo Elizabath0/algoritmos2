@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keiner\\Documents\\sena ADSO\\Johan\\logica\\algoritmos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B013C9F7-7E6A-4F68-91B6-C9BDA550E45B}|comidas\\comidas.csproj|c:\\users\\keiner\\documents\\sena adso\\johan\\logica\\algoritmos\\comidas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013C9F7-7E6A-4F68-91B6-C9BDA550E45B}|comidas\\comidas.csproj|solutionrelative:comidas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Keiner\\Documents\\sena ADSO\\Johan\\logica\\algoritmos\\comidas\\Program.cs",
+              "RelativeDocumentMoniker": "comidas\\Program.cs",
+              "ToolTip": "C:\\Users\\Keiner\\Documents\\sena ADSO\\Johan\\logica\\algoritmos\\comidas\\Program.cs",
+              "RelativeToolTip": "comidas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:51:05.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
